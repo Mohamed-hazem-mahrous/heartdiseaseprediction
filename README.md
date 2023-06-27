@@ -1,4 +1,4 @@
-# README for Notebook_team6.ipynb
+# Heart Disease Prediction
 
 This notebook contains code for analyzing and preprocessing the "heart" dataset. The dataset contains various features related to heart health and a target variable indicating the presence or absence of heart disease.
 
